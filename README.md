@@ -6,15 +6,9 @@ Aqui você encontra meus projetos e exericícios, podendo ver minha evolução e
 
 Atualmente estudando as seguintes fomrações:
 
-🎓 Alura: Formação Python
+🎓 QA.Coders - Analista de Teste de Software (em andamento)
 
-🎓 Alura: Formação Django
-
-🎓 Alura: Formação Iniciando em Engenharia de Dados
-
-🎓 Curso em Vídeo: HTML5 (Contempla também CSS3 e Javascript)
-
-
+🎓 DIO - Bootcamp GFT QA #1 (em andamento)
 
 🌎 Confira meu Linkedin: https://www.linkedin.com/in/leonardosiviero/
 
