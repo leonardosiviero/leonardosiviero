@@ -6,7 +6,7 @@ Aqui você encontra meus projetos e exericícios, podendo ver minha evolução e
 
 Atualmente estudando as seguintes fomrações:
 
-🎓 QA.Coders - Analista de Teste de Software (em andamento)
+🎓 Prime Control - BootCamp Prime Hero Academy (Concluído)
 
 🎓 DIO - Bootcamp GFT QA #1 (em andamento)
 
