@@ -8,8 +8,6 @@ Atualmente estudando as seguintes fomrações:
 
 🎓 Prime Control - BootCamp Prime Hero Academy (Concluído)
 
-🎓 DIO - Bootcamp GFT QA #1 (em andamento)
-
 🌎 Confira meu Linkedin: https://www.linkedin.com/in/leonardosiviero/
 
 Fique a vontade para trocar uma ideia! 💬
