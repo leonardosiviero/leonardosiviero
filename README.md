@@ -1,6 +1,6 @@
 Oi! Meu nome é Leonardo Siviero, engenheiro mecânico e atualmente estudante de Tecnologia da Informação.
 
-Estudando aplicado de Análise de Dados.
+Estudando para minha transição de carreira direcionada a analise de dados e riscos.
 
 Aqui você encontra meus projetos e exericícios, podendo ver minha evolução em coding! 😁
 
