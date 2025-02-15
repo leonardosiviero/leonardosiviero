@@ -1,4 +1,4 @@
-Oi! Meu nome é Leonardo Siviero, engenheiro mecânico e atualmente estudante de Tecnologia da Informação.
+Oi! Meu nome é Leonardo Siviero, engenheiro mecânico, matemático e atualmente estudante de Tecnologia da Informação.
 
 Estudando para minha transição de carreira direcionada a analise de dados e riscos.
 
